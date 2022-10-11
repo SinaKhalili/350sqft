@@ -1,0 +1,24 @@
+.HEAD
+
+My silly markup language
+
+.TEXT
+
+The spectacle before us was indeed sublime.
+Hey look, a link!
+
+.LINK
+
+https://something.com
+
+.TEXT
+
+You can also do images.
+
+.IMAGE
+
+/link/to/image
+
+.TEXT
+
+Nothing is stopping you from using <em> normal html </em> also.

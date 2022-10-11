@@ -1,0 +1,7 @@
+.HEAD
+
+welcome to the studio
+
+.TEXT
+
+We hope you enjoy your stay.
