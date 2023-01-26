@@ -1,6 +1,12 @@
 import sys
 
-MODES = {".TEXT": "p", ".HEAD": "h1", ".LINK": "a", ".IMAGE": "img"}
+MODES = {
+    ".TEXT": "p",
+    ".HEAD": "h1",
+    ".LINK": "a",
+    ".IMAGE": "img",
+    ".CENTER": "center",
+}
 
 
 def main():
